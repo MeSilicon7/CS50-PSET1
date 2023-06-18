@@ -1,2 +1,2 @@
-# fluffy-octo-parakeet
+# Fluffy-octo-parakeet
 My CS50
